@@ -3,5 +3,6 @@ public class Main {
         String greeting = "Hello world!";
         System.out.println(greeting);
         System.out.println(greeting.length());
+        System.out.println("Changes to file");
     }
 }
